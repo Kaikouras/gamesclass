@@ -745,3 +745,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.02-13.55.21:750][686]LogSavePackage: Moving '../../../../Sven Mehlhorn/GitHub/GamesClass/gamesclass/githubtest1/Saved/FirstPersonExampleMapF85D3FD049E7B68AF51452AFE0C81BC9.tmp' to '../../../../Sven Mehlhorn/GitHub/GamesClass/gamesclass/githubtest1/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2023.03.02-13.55.22:994][686]LogSavePackage: Moving '../../../../Sven Mehlhorn/GitHub/GamesClass/gamesclass/githubtest1/Saved/FirstPersonExampleMap_BuiltData9412561E4BE725229F55C68F44334418.tmp' to '../../../../Sven Mehlhorn/GitHub/GamesClass/gamesclass/githubtest1/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2023.03.02-13.55.25:965][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.03.02-14.02.27:133][ 97]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2023.03.02-14.03.41:812][320]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={CC2376A5-435C-5932-D1C3-4A8663871333}
